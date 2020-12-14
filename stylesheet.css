@@ -91,6 +91,8 @@ header {
 
 .header-left {
   float: left;
+  font-size: 80px;
+  color: white;
 }
 
 .header-right {
